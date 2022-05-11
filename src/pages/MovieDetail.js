@@ -11,7 +11,7 @@ const MovieDetail = () => {
   const [movieDetails, setMovieDetails] = useState({});
   const [videoKey, setVideoKey] = useState();
 
-  const API_KEY = process.env.REACT_APP_TMDB_KEY;
+  const API_KEY = "d6278b3dc3e6f8f8376a89851c3f8c8f";
     const baseImageUrl = "https://image.tmdb.org/t/p/w1280";
     const defaultImage =
         "https://images.unsplash.com/photo-1581905764498-f1b60bae941a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80";
