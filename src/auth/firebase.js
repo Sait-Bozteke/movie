@@ -6,12 +6,12 @@ import {getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,sign
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDvcZf-Pk3CxrX8DCe48OQQ4PPXhj_cSb0",
-  authDomain: "movie-app-with-farebase.firebaseapp.com",
-  projectId: "movie-app-with-farebase",
-  storageBucket: "movie-app-with-farebase.appspot.com",
-  messagingSenderId: "171997574014",
-  appId: "1:171997574014:web:66f0e967db5bd22e93792f"
+  apiKey: "AIzaSyAUdeSlgbA6GGPXskhCMYSoxXo4nbsbhPg",
+  authDomain: "movie-7d7b1.firebaseapp.com",
+  projectId: "movie-7d7b1",
+  storageBucket: "movie-7d7b1.appspot.com",
+  messagingSenderId: "760886502223",
+  appId: "1:760886502223:web:dee649db4c44f86f8b1b3a"
 };
 
 // Initialize Firebase
