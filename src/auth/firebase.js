@@ -6,12 +6,12 @@ import {getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword,sign
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyBWK8vQDZj01SgmPePpsme8rZLKfaa8gF4",
-  authDomain: "chat-app-with-firebase-a7a6a.firebaseapp.com",
-  projectId: "chat-app-with-firebase-a7a6a",
-  storageBucket: "chat-app-with-firebase-a7a6a.appspot.com",
-  messagingSenderId: "957736101232",
-  appId: "1:957736101232:web:38a5de6f7bad757dda5bb5"
+  apiKey: "AIzaSyDvcZf-Pk3CxrX8DCe48OQQ4PPXhj_cSb0",
+  authDomain: "movie-app-with-farebase.firebaseapp.com",
+  projectId: "movie-app-with-farebase",
+  storageBucket: "movie-app-with-farebase.appspot.com",
+  messagingSenderId: "171997574014",
+  appId: "1:171997574014:web:66f0e967db5bd22e93792f"
 };
 
 // Initialize Firebase
